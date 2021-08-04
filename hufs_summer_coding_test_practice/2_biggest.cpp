@@ -1,4 +1,5 @@
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
 int main() {
@@ -12,4 +13,7 @@ int main() {
 		arr[i] = num;
 	}
 
+	sort(arr, arr + n);
+
+	cout << arr[n - 1] << " " << arr[n - 2];
 }
