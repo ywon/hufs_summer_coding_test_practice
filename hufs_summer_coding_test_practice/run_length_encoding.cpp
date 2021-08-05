@@ -15,20 +15,7 @@ int main() {
 
 
 	while (index < a.length()-1) {
-		cnt++;
-		if (a[index] != a[index+1]) {
-			temp++;
-			count[i] = cnt;
-			letter[i] = a[index];
-			i++;
-			cnt = 0;
-		}		
-		if (index == a.length() - 1) {
-			count[i] = cnt;
-			temp++;
-			letter[i] = a[index];
-		}
-		index++;
+
 	}
 
 	for (int i = 0; i < temp; i++) {
