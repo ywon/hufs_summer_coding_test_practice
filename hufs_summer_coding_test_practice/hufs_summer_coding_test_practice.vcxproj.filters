@@ -99,5 +99,14 @@
     <ClCompile Include="move_to_big_num_multiple.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="happy_sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle_conveyor_belt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cross_shape_explosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
