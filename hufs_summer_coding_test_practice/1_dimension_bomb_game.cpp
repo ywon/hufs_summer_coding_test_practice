@@ -27,7 +27,7 @@ bool any_bomb_left() { //더 터트릴 폭탄이 남았는지 확인
 
 	if (count == 0) {
 		return false;
-	}
+		
 	else {
 		return true;
 	}

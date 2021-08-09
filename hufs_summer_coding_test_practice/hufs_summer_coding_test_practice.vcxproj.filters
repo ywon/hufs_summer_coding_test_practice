@@ -123,5 +123,14 @@
     <ClCompile Include="1_dimension_bomb_game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="backtracking_basic_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="backtracking_basic_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="backtracking_basic_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
