@@ -111,5 +111,17 @@
     <ClCompile Include="falling_single_block.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="moving_numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tromino.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gold_mining.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1_dimension_bomb_game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
