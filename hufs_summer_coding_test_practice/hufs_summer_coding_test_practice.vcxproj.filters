@@ -144,5 +144,14 @@
     <ClCompile Include="BFS_basic_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="dividing_village.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="comfort_zone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bboo_yo_bboo_yo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
