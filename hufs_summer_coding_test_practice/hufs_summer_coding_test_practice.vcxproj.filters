@@ -153,5 +153,8 @@
     <ClCompile Include="bboo_yo_bboo_yo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="where_you_can_go.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
